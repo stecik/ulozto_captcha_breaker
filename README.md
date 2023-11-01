@@ -18,3 +18,5 @@ Dataset requirements:
 - Images in PNG format
 - Put your dataset into dataset directory
 
+## Last Model
+![image](https://github.com/stecik/ulozto_captcha_breaker/assets/74813606/a131b800-83e8-4167-b00e-9609e288c25d)
