@@ -1,4 +1,5 @@
 # Ulozto CAPTCHA breaker
+## Because of the current changes (1.12.2023) this repository won't be updated anymore unless the situation changes.
 Neural network trained to recognize CAPTCHA used by server uloz.to (WORK IN PROGRESS)<br />
 This project is inspired by https://github.com/JanPalasek/ulozto-captcha-breaker and https://keras.io/examples/vision/captcha_ocr/
 ## Dependencies
