@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ## Training a model
 Dataset requirements:
 - Images 175x70
-- Black and white images (pixels have only 2 values: 0 for black, 255 for white). There is a function in functions.ypynb which converts rgb images into black and white.
+- Black and white images (pixels have only 2 values: 0 for black, 255 for white). There is a function in functions.ipynb which converts rgb images into black and white.
 - Images in PNG format
 - Put your dataset into dataset directory
 
